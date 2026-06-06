@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  💻 Student Developer • 🚀 Open Source Enthusiast • 🌱 Learning Every Day
+  💻 Developer • 🚀 Open Source Enthusiast • 🌱 Learning Every Day
 </p>
 
 ## 🛠️ Tech Stack
@@ -36,13 +36,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guoyinuo2012&theme=tokyo-night&hide_border=true" />
 </p>
 
-## 🚀 Current Projects
-
-🔹
-
-🔹 
-
-🔹 
 
 <p align="center">
   <i>Thanks for viewing my profile</i>
