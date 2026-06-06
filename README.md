@@ -9,15 +9,11 @@
   💻 Student Developer • 🚀 Open Source Enthusiast • 🌱 Learning Every Day
 </p>
 
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,git,github,vscode" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -49,5 +45,5 @@
 🔹 
 
 <p align="center">
-  <i>Always Learning Something New ✨</i>
+  <i>Thanks for viewing my profile</i>
 </p>
