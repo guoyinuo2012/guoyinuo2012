@@ -27,7 +27,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guoyinuo2012&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## 🔥 GitHub Streak
 
@@ -35,35 +34,19 @@
   <img src="https://streak-stats.demolab.com?user=guoyinuo2012&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guoyinuo2012&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
 ## 🚀 Current Projects
 
-🔹 Daily Rewards Blooket JS
+🔹
 
-🔹 JavaScript Learning Projects
+🔹 
 
-🔹 Future Full-Stack Applications
-
----
-
-## 🎯 2026 Goals
-
-- Build 10+ public projects
-- Learn Node.js
-- Contribute to Open Source
-- Improve JavaScript skills
-- Grow as a developer
-
----
+🔹 
 
 <p align="center">
   <i>Always Learning Something New ✨</i>
