@@ -11,15 +11,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🔭 Currently building JavaScript projects
-- 🌱 Learning Web Development & Node.js
-- 🚀 Interested in Open Source
-- 💡 I enjoy turning ideas into real projects
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
